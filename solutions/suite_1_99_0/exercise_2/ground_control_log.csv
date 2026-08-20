@@ -1,0 +1,4 @@
+File Name,Signal ID,Am I Floating?,Circuit Dead?,Oxygen Level (psi)
+transmission_0.bin,10,1,0,500
+transmission_1.bin,258,0,0,0
+transmission_2.bin,10,1,1,12
